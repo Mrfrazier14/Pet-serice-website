@@ -29,7 +29,9 @@
         <img src="https://content.codecademy.com/courses/SemanticHTML/dogimage.jpeg"/>
         <figcaption>A cute dog.</figcaption>
       </figure>  
-       <!-- Create <audio> tag here -->
+       <audio autoplay controls>
+         <source src="https://content.codecademy.com/courses/SemanticHTML/dogBarking.mp3" type="audio/mp3">
+         </audio>
       
       
       
