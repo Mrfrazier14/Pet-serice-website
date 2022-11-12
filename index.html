@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
   <body>
     <header>
       <h1>Navigational Links</h1>
@@ -29,9 +32,13 @@
         <img src="https://content.codecademy.com/courses/SemanticHTML/dogimage.jpeg"/>
         <figcaption>A cute dog.</figcaption>
       </figure>  
-       <audio autoplay controls>
-         <source src="https://content.codecademy.com/courses/SemanticHTML/dogBarking.mp3" type="audio/mp3">
-         </audio>
+      <audio controls>
+        <source src="https://content.codecademy.com/courses/SemanticHTML/dogBarking.mp3" type="audio/mp3">
+      </audio> 
+
+ 
+      <video controls src="https://content.codecademy.com/courses/SemanticHTML/dog-video.mp4"></video>
+       <embed src="https://content.codecademy.com/courses/SemanticHTML/dog-on-beach.gif"/>
       
       
       
